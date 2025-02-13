@@ -9,7 +9,7 @@ export const Ask = () => {
       <div className="ask-content">
         <p>
           Daddy appreciates your eagerness, daddy appreciates you, your love,
-          your care, your patience, your strength. 💖
+          your care, your patience, your strength! 💖
         </p>
         <p>
           For this unwavering love for me and making my life joyful, pleasant,
