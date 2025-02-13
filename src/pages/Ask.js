@@ -21,12 +21,6 @@ export const Ask = () => {
         </p>
         <h2>Will You Be My Valentine? 💌</h2>
 
-        <img
-          src="https://i.pinimg.com/originals/7b/55/87/7b5587a676fe3c762bf9f021c6ec4e34.jpg"
-          alt="Romantic Couple"
-          className="romantic-image"
-        />
-
         <div className="button-group">
           <button onClick={() => navigate("/yay")}>Yes 💞</button>
           <button onClick={() => navigate("/yay")}>
